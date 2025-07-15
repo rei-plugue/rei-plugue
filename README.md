@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-<h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas na FAMEESP e participando do programa Oracle Next Education (G8) da Alura.</h2>
+<h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas na FAMEESP e participante do programa Oracle Next Education (G8) da Alura.</h2>
 
 ###
 

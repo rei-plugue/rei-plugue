@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">Estudante de Análise e Desenvolvimento de Sistemas na FAMEESP e participante do programa Oracle Next Education (G8) da Alura.</h2>
+<h2 align="center">Estudante de Análise e Desenvolvimento de Sistemas.</h2>
 
 ###
 
